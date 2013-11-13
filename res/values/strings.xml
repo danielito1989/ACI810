@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Control2</string>
+    <string name="action_settings">Settings</string>
+    <string name="Prueba">Ingrese su Nombre:</string>
+    <string name="Switch">Seleccione</string>
+    <string name="Seleccion">Usted selecciono</string>
+
+</resources>
